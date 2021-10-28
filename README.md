@@ -3,4 +3,4 @@
 
 menambahkan file data diri ke ke github
 membuat program dari python menampilkan biodata
-![gambar 1]biodata.jpg
+![gambar 1](biodata.jpg)
